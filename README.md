@@ -1,7 +1,8 @@
 # generator-knr-eslintrc [![Build Status](https://travis-ci.org/Knorcedger/generator-knr-eslintrc.png?branch=master)](https://travis-ci.org/Knorcedger/generator-knr-eslintrc)
 
-A yeoman generator that adds an eslintrc.js file in your project
-It uses the [Google Styling Guide](https://github.com/google/eslint-config-google) but changes spaces for tabs
+A yeoman generator that adds an eslintrc.js file in your project.  
+It uses the [Google Styling Guide](https://github.com/google/eslint-config-google) but changes spaces for tabs.  
+You need to use it in a folder that already has a package.json file.  
 
 ## Installation
 
