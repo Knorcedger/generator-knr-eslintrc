@@ -1,7 +1,7 @@
 {
   "name": "generator-knr-eslintrc",
   "description": "A yeoman generator that adds an eslintrc.js file in your project",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "author": "Knorcedger",
   "bugs": {
     "url": "https://github.com/Knorcedger/generator-knr-eslintrc/issues"
