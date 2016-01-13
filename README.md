@@ -12,7 +12,7 @@ that be might needed.
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install generator-knr-eslintrc --save
+npm install -g generator-knr-eslintrc --save
 ```
 
 or download it through [Yeoman](http://yeoman.io).
